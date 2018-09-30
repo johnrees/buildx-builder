@@ -27,4 +27,4 @@ parcelRequire=function(e,r,n,t){var i="function"==typeof parcelRequire&&parcelRe
 },{"react":"HdMw","three":"gBK8","./breeze_block":"SIyB","./brick":"kiys","./ground":"Tklf","./model":"pjIr"}],"OGgv":[function(require,module,exports) {
 "use strict";var e=this&&this.__importStar||function(e){if(e&&e.__esModule)return e;var r={};if(null!=e)for(var t in e)Object.hasOwnProperty.call(e,t)&&(r[t]=e[t]);return r.default=e,r},r=this&&this.__importDefault||function(e){return e&&e.__esModule?e:{default:e}};Object.defineProperty(exports,"__esModule",{value:!0});var t=e(require("react")),u=require("react-dom"),a=r(require("./stage"));u.render(t.createElement(a.default,null),document.getElementById("app"));
 },{"react":"HdMw","react-dom":"X9zx","./stage":"Bmna"}]},{},["OGgv"], null)
-//# sourceMappingURL=/src.0bb09658.map
+//# sourceMappingURL=src.0bb09658.map
